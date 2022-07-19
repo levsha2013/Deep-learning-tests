@@ -1,7 +1,5 @@
 import numpy as np
 
-
-
 class model():
 
     def get_model(self):
